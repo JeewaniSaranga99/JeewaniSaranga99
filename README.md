@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeewani Saranga</h1>
-<h3 align="center">I am a Information Technology undergraduate at University of Moratuwa</h3>
+<h3 align="center">I am an Information Technology undergraduate at University of Moratuwa</h3>
 
 - 🌱 I’m currently learning **React.Js, Angular and Spring Boot**
 
